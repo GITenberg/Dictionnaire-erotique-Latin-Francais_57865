@@ -1,0 +1,31 @@
+_repo: Dictionnaire-erotique-Latin-Francais_57865
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Noël, François
+    gutenberg_agent_id: '49659'
+    url: http://www.gutenberg.org/2009/agents/49659
+  - agent_name: Blondeau, Nicolas
+    gutenberg_agent_id: '49658'
+    url: http://www.gutenberg.org/2009/agents/49658
+  - agent_name: Bonneau, Alcide
+    birthdate: 1836
+    deathdate: 1904
+    gutenberg_agent_id: '45575'
+    url: http://www.gutenberg.org/2009/agents/45575
+description: ''
+gutenberg_bookshelf:
+- FR Langues
+- FR Nouveautés
+gutenberg_issued: '2018-09-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57865'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Dictionnaire érotique Latin-Français
+url: http://www.gutenberg.org/ebooks/57865
